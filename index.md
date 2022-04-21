@@ -38,7 +38,7 @@ body {
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
-  <a href="aboutMe.html">About</a>
+  <a href="aboutMe">About</a>
 </div>
 
 <div style="padding-left:16px">
